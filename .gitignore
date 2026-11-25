@@ -1,0 +1,22 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+runs/
+*.pt
+*.pth
+*.pkl
+# Existing tracked dataset files are unchanged; new datasets are local only.
+data/*/
+*.log
+*.bak
+*.bak_*
+*.zip
+*.tar.gz
+.bak_presync/
+patch_v1.py
+drive_*.sh
+diag_*.sh
+data/
+analyze_imports.py
+*.sh

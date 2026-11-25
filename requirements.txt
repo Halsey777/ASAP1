@@ -1,0 +1,5 @@
+# Install a matching torch/torchvision pair for the CPU/CUDA runtime first.
+torch>=2.2
+torchvision>=0.17
+numpy>=1.24
+pillow>=9
